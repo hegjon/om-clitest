@@ -3,7 +3,7 @@
 
 Name:    clitest
 Version: 0.5.0
-Release: 5%{?dist}
+Release: 1
 Summary: Command Line Tester
 Group:   Development/Tools
 
